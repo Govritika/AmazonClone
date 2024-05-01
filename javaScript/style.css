@@ -1,0 +1,13 @@
+button{
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+    border: 2px solid rgb(20, 30, 40);
+    background-color: rgb(200, 200, 200);
+    color: rgba(100, 212 12, 21);
+    border-radius: 5px;
+    padding: 3px 10px;
+    display: inline-block;
+    cursor: pointer;
+}
